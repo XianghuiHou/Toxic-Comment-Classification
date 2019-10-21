@@ -16,6 +16,7 @@ nltk
 * Binary Relevance
 
 This method does not take into account the interdependence of labels. Each label is solved separately like a single label classification problem. This is the simplest approach to be applied
+![Binary Relevance](binary.png)
 
 * Classifier Chains
 
