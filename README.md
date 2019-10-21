@@ -32,3 +32,6 @@ Log loss \
 Hamming Loss\
 F1 score \
 Confusion Matrix
+
+**Result:** 
+We choose to compare Multinomial Naive Bayes , Logistic Regression and Linear Support Vector Machine. The best result is from Linear Support Vector Machine.
